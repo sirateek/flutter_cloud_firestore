@@ -1,0 +1,2 @@
+cloud_firestore/android/app/google-services.json
+cloud_firestore/ios/Runner/GoogleService-Info.plist

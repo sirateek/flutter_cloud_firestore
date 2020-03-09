@@ -1,0 +1,5 @@
+/.blackbox/pubring.gpg~
+/.blackbox/pubring.kbx~
+/.blackbox/secring.gpg
+/cloud_firestore/android/app/google-services.json
+/cloud_firestore/ios/Runner/GoogleService-Info.plist
